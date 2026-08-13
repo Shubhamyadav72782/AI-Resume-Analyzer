@@ -1,0 +1,11 @@
+venv/
+venvapp/
+.env
+__pycache__/
+*.pyc
+instance/
+*.db
+
+.streamlit/secrets.toml
+
+App/Uploaded_Resumes/*.pdf
